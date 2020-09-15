@@ -5,6 +5,6 @@ This is a google keep API based ( https://github.com/kiwiz/gkeepapi ) Exporter w
 
 Dependency:
 
- `pip install gkeepapi
+ `pip install gkeepapi`
 
 
