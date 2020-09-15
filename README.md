@@ -8,3 +8,10 @@ Dependency:
  `pip install gkeepapi`
 
 
+
+If you encounter NeedBrowser error during login,
+
+* You have to open the following link with lynx (an Internet text browser): https://accounts.google.com/b/0/DisplayUnlockCaptcha
+* Authenticate with your google account credentials
+
+
