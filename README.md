@@ -8,6 +8,11 @@ Dependency:
  `pip install gkeepapi`
 
 
+To run, open directory and :
+
+`python export.py`
+
+
 
 If you encounter NeedBrowser error during login,
 
